@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **pdoren/pdoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## 📊 Github Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=pdoren&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="pdoren" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdoren&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="pdoren" /></td
+  </tr>
+</table>
