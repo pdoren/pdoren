@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 * 🎓 **Control & Automation Engineer** with 10+ years in industrial robotics, PLC programming, and smart manufacturing.
-* 🤝 Official representative of **SCHUNK** gripping systems in Chile.
+* 🤝 **Official representative of SCHUNK** gripping systems in Chile.
 * 🤖 **Official FANUC Robot Integrator** for high‑throughput production lines.
 * 💻 Passionate about **Python & C++** development, and currently diving deep into **Full‑Stack JavaScript** (Node.js | React | Next.js).
 * 📈 Enjoy turning factory data into actionable insights using **IIoT**, **Node‑RED**, and **cloud dashboards**.
